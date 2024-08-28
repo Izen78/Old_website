@@ -26,7 +26,7 @@ body {
   /*   float: left; */
   position: absolute;
   top: 100%;
-  left: 16px
+  left: 16px;
 }
 
 #title {
@@ -62,7 +62,7 @@ a:link {
 
 #info {
   color: white;
-  font-family: "Robotot;
+  font-family: "Roboto";
 
 }
 
